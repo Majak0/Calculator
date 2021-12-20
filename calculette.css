@@ -1,0 +1,73 @@
+body
+{
+	background-color: #31324E;
+	background-image: url(interrogation.gif);
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+#titre
+{
+	color: #82F4ED;
+	position: absolute;
+	left: 750px;
+	font-size: 18px;
+}
+
+#nb1
+{
+	width: 5%;
+	font-size: 18px;
+	border-radius: 12px;
+	background-color: silver;
+	position: absolute;
+	left: 7%;
+	top: 30%;
+}
+
+#signe
+{
+	width: 5%;
+	font-size: 18px;
+	border-radius: 12px;
+	background-color: silver;
+	position: absolute;
+	left: 17%;
+	top: 30%;
+}
+
+#nb2
+{
+	width: 5%;
+	font-size: 18px;
+	border-radius: 12px;
+	background-color: silver;
+	position: absolute;
+	left: 27%;
+	top: 30%;
+}
+
+#valide
+{
+	width: 5%;
+	font-size: 18px;
+	border-radius: 12px;
+	background-color: silver;
+	position: absolute;
+	left: 17%;
+	top: 60%;
+}
+
+#result
+{
+	color: black;
+	background-color: #82F4ED;
+	font-size: 27px;
+	width: 600px;
+	padding: 5px;
+	border-radius: 10px;
+	box-shadow: 10px 5px 5px grey;
+	position: absolute;
+	bottom: 50%;
+	right: 50px;
+}
